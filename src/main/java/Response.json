@@ -1,0 +1,26 @@
+{
+  "database1" : {
+    "status" : "Successful",
+    "statusCode" : "200 OK"
+  },
+  "database2" : {
+    "status" : "Successful",
+    "statusCode" : "200 OK"
+  },
+  "database3" : {
+    "status" : "Connection failed!",
+    "statusCode" : "500 INTERNAL_SERVER_ERROR"
+  },
+  "db1" : {
+    "status" : "Connection failed!",
+    "statusCode" : "500 INTERNAL_SERVER_ERROR"
+  },
+  "db3" : {
+    "status" : "Connection failed!",
+    "statusCode" : "500 INTERNAL_SERVER_ERROR"
+  },
+  "db2" : {
+    "status" : "Connection failed!",
+    "statusCode" : "500 INTERNAL_SERVER_ERROR"
+  }
+}
